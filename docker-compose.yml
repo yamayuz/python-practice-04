@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+
+  sentry-test:
+    build:
+      context: .
+    container_name: sentry-test
+    command: bash
+    tty: true
+    volumes:
+      - ./src:/var/sentry-test
