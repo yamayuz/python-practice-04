@@ -1,5 +1,5 @@
 # sentry-practice-with-python-01 - sentryのテスト
-## Setup
+## Setup & Run
 /src/.envファイルを作成し、SENTRYのDNSを下記の通り記載
 ```
 SENTRY_DNS='ここにSENTRYのDNS'
