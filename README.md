@@ -1,4 +1,4 @@
-# sentry-practice-with-python-01 - sentryのテスト
+# python-practice-04 - try to Sentry with python
 ## Setup & Run
 /src/.envファイルを作成し、SENTRYのDNSを下記の通り記載
 ```
